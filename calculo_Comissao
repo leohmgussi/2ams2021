@@ -49,7 +49,7 @@
             $salfixo=$_GET['txtsalfixo'];
             $vendas=$_GET['txtvendas'];
             $comissao=$_GET['txtcomissao'];
-           <input class="form-control form-control-lg" type="text" name="txtvendas" placeholder="lorrany"> 
+           <input class="form-control form-control-lg" type="text" name="tttxtvendas" placeholder="lorrany"> 
 
             // Calcula Comissao
             $vrcomissao = ($vendas*$comissao)/100;
