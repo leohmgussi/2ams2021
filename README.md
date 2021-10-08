@@ -1,2 +1,6 @@
 # 2ams2021
-button type="button" class="btn btn-link">Erro</button>
+
+nt sum3 = sum2 + sum2;     // 800 (400 + 400)
+
+
+
